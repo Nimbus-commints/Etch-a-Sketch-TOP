@@ -10,6 +10,9 @@
   padding: 0px;
 }
 
+.popup-hidden {
+  display: none;
+}
 .cell {
   box-sizing: border-box;
   /* width: 20px; */
