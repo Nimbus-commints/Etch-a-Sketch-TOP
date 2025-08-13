@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 320px;
+  width: 320px;
+  border: purple 1px solid;
+  gap: 0px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.cell {
+  box-sizing: border-box;
+  /* width: 20px; */
+  /* height: 20px; */
+  border: 1px solid rgba(39, 39, 39, 0.233);
+  flex: 1 1 20px;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* .cell:hover {
+  background-color: black;
+} */
